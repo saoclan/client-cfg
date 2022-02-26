@@ -8,8 +8,8 @@ Dependiendo del cliente instalado, actualmente se cuenta con dos configuraciones
 
 # Controles.
 
-F1 = Cambiar nombre a Padawan.
-F2 = cambiar nombre a uno personalizado dentro de los archivos.
-F4 = Recargar Exec.cfg.
-7, 8 y 9 = Cambia entre distintos tipos de sable siendo el orden Single, Dobles y Dual en ese orden.
-H y J = Acercar y alejar binoculares.
+- F1 = Cambiar nombre a Padawan.
+- F2 = cambiar nombre a uno personalizado dentro de los archivos.
+- F4 = Recargar Exec.cfg.
+- 7, 8 y 9 = Cambia entre distintos tipos de sable siendo el orden Single, Dobles y Dual en ese orden.
+- H y J = Acercar y alejar binoculares.
