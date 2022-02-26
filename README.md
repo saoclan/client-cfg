@@ -12,4 +12,4 @@ Dependiendo del cliente instalado, actualmente se cuenta con dos configuraciones
 - F2 = Cambiar nombre a uno personalizado dentro de los archivos.
 - F4 = Recargar Exec.cfg.
 - 7, 8 y 9 = Cambia entre distintos tipos de sable siendo el orden Single, Dobles y Dual en ese orden.
-- H y J = Acercar y alejar binoculares.
+- H y J = Acercar y alejar zoom.
