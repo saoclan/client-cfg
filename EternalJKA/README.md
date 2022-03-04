@@ -20,8 +20,6 @@ Los siguientes archivos deben ser colocados en la carpeta base del juego: master
 - f12 = screenshot
 - ctrl = Amtelemark (para straffe)
 - alt = Amtele (para straffe)
-- mouse4 = lowjump (para eternal sabering mode)
-- mouse4 = flipkick (para eternal = jediSith mode)
 - 7, 8 y 9 = cambia sable: Single, double and staff.
 - H y J = Zoom in y out respectivamente.
 
@@ -43,6 +41,4 @@ bind f10 record;
 bind f11 stoprecord;
 ```
 - `cg_defaultModelRandom 0;` anti-bugmodel.
-- `bind mouse4 lowjump;` Comando exclusivo de eternal para evitar lowjump
-- `bind mouse4 flipkick;` comando exclusivo de eternal para flipkick
 - `stylePlayer 0;` Modelos muy brillantes
